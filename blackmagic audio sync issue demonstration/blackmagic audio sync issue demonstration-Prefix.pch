@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'blackmagic audio sync issue demonstration' target in the 'blackmagic audio sync issue demonstration' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
